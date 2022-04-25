@@ -36,15 +36,15 @@ Requests can be idempotent, meaning that they can be executed multiple times and
 
 <b> What is the difference between POST AND put? Explain with an example. <b> 
 
-<li> PUT method is called when you have to modify a single resource while POST method is called when you have to add a child resource.</li>
+<p><li> PUT method is called when you have to modify a single resource while POST method is called when you have to add a child resource.</li>
 <li> PUT method response can be cached but you cannot cache POST method responses.</li>
 <li> You can use UPDATE query in PUT whereas you can use create query in POST.</li>
 <li> In PUT method, the client decides which URI resource should have, and in POST method, the server decides which URI resource should have.</li>
 <li> PUT works as specific while POST work as abstract.</li>
 <li> If you send the same PUT request multiple times, the result will remain the same but if you send the same POST request multiple times, you will receive different results.</li>
-<li> PUT method is idempotent whereas POST method is not idempotent.</li>
+  <li> PUT method is idempotent whereas POST method is not idempotent.</li></p>
 
-
+<br>
 <b> Name 5 main categories of HTTP status codes? Explain 5 status codes from each category(You have to tell the status code and description of each status code with an example). </b>
 
 <p><li> Informational responses (100–199)</li>
