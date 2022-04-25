@@ -47,8 +47,8 @@ Requests can be idempotent, meaning that they can be executed multiple times and
 
 <b> Name 5 main categories of HTTP status codes? Explain 5 status codes from each category(You have to tell the status code and description of each status code with an example). </b>
 
-<li> Informational responses (100–199)</li>
+<p><li> Informational responses (100–199)</li>
 <li> Successful responses (200–299)</li>
 <li> Redirection messages (300–399)</li>
 <li> Client error responses (400–499)</li>
-<li> Server error responses (500–599)</li>
+  <li> Server error responses (500–599)</li></p>
