@@ -31,7 +31,7 @@
 
 Requests can be idempotent, meaning that they can be executed multiple times and you should see the same response each time, and requests can also be safe, meaning that the request should only retrieve data and not complete any other action.</p>
 
-![img-http.png](img.png)
+![image-http.png](image-http.png)
 
 
 <b> What is the difference between POST AND put? Explain with an example. <b> 
